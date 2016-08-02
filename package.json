@@ -1,6 +1,6 @@
 {
-	"name": "Proffibit test",
-	"version": "0.0.1",
+	"name": "proffibit-test",
+	"version": "0.0.2",
 	"devDependencies": {
 		"express": "^4.14.0"
 	}
